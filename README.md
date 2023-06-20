@@ -7,7 +7,8 @@
 
 ###Projeto
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=leoramosdiniz&repo=tiktokapp&theme=dark)]([https://github.com/leoramosdiniz/tiktokapp])
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=leoramosdiniz&repo=tiktokapp&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
 
