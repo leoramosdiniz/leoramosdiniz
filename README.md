@@ -1,11 +1,11 @@
 ### Seja bem vindo👋
 
-###Detalhes 
+### Detalhes 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=leoramosdiniz&show_icons=true&theme=dark)](https://github.com/leoramosdiniz)
 
 
-###Projeto
+### Projeto
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=leoramosdiniz&repo=tiktokapp&theme=dark)](https://github.com/leoramosdiniz/tiktokapp)
 
