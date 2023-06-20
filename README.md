@@ -15,6 +15,9 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leoramosdiniz)](https://github.com/leoramosdiniz)
 
 
+### Contato 
+
+[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn]((https://www.linkedin.com/in/leonardo-r-a03b8a140/))
 
 
 
