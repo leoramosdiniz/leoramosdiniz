@@ -2,7 +2,7 @@
 
 ###Detalhes 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=leoramosdiniz&show_icons=true&theme=dark)](https://github.com/leoramosdiniz/tiktokapp)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=leoramosdiniz&show_icons=true&theme=dark)]
 
 
 ###Projeto
